@@ -209,6 +209,11 @@
     text-align: center;
   }
   /* review end  */
+  /* accordion start  */
+  .accordion_custom_btn {
+    padding-right: 40px;
+  }
+  /* accordion end  */
   /* .app_link  start  */
   .app_link {
     background: none;
