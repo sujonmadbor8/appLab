@@ -1,0 +1,643 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .padding_top {
+    padding-top: 60px;
+  }
+  /* header start  */
+  header {
+    padding-top: 17px;
+  }
+  .menu ul {
+    padding: 10px 0;
+  }
+  .menu ul li a {
+    padding: 0 0 10px 0px !important;
+  }
+  .btn_nav {
+    margin-bottom: 10px;
+  }
+  /* header end  */
+  /* slider start  */
+  .slider {
+    padding: 30px 0;
+  }
+  .slider_text h1 {
+    padding-top: 20px;
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .p_1 {
+    width: 290px;
+  }
+  .p_2 {
+    padding: 20px 0 40px;
+    line-height: 27px;
+  }
+  .link_2 {
+    padding-top: 45px;
+    display: block;
+  }
+  /* slider end  */
+  /* companies start  */
+  .companies {
+    padding-top: 60px;
+  }
+  .comp ul {
+    padding: 0;
+  }
+  .comp ul li {
+    margin-top: 30px;
+    width: 40px;
+    margin-right: 15px !important;
+  }
+  .comp ul li img {
+  }
+  /* companies end  */
+  /* feature start  */
+  .feature {
+    margin-top: 60px;
+  }
+  .feature_heading {
+    text-align: center;
+  }
+  .feature_heading h2 {
+    padding-right: 0;
+    font-size: 30px;
+  }
+  .feature_heading p {
+    padding: 20px 0 0;
+  }
+  .item {
+    margin-top: 50px;
+    text-align: center;
+  }
+  .item_img {
+    margin: 0 auto;
+  }
+  .item h3 {
+    padding: 15px 0;
+  }
+  /* feature end  */
+  /* jackpot start  */
+  .jackpot {
+    text-align: center;
+  }
+  .jackpot_heading h2 {
+    padding-right: 0;
+    font-size: 25px;
+  }
+  .devider {
+    margin: 15px 0 20px 0;
+    height: 1px;
+    width: 300px;
+    background-color: var(--grey);
+  }
+  /* jackpot end  */
+  /* quick_secvice start  */
+  .quick_service {
+    padding-top: 10px;
+    text-align: center;
+  }
+  .s_img {
+    margin: 50px auto 0;
+  }
+  .s_text {
+    padding: 0;
+  }
+  .s_text h3 {
+    padding: 15px 0;
+  }
+  /* quick_secvice end  */
+  /* design start  */
+  .padding_bottom {
+    padding-bottom: 20px;
+  }
+  .design_img {
+    padding-bottom: 30px;
+  }
+  .design_text {
+    margin-left: 0;
+    padding-right: 0px;
+    text-align: center;
+  }
+  .design_text h2 {
+    font-size: 25px;
+  }
+  .design_text p {
+    padding: 20px 0;
+  }
+  /* design end  */
+  /* service start   */
+
+  .c_heading h2 {
+    padding: 0;
+    font-size: 25px;
+  }
+  .c_heading p {
+    padding: 20px 5px 0;
+  }
+  .service_item {
+    margin-top: 10px;
+  }
+  .service_text {
+    padding: 0;
+  }
+  /* service end   */
+  /* ultimate service start  */
+  .u_heading {
+    text-align: center;
+    padding: 0;
+  }
+  .u_heading h2 {
+    font-size: 25px;
+    padding: 0 10px;
+  }
+  .u_heading p {
+    padding-top: 20px;
+  }
+  .u_item {
+    text-align: center;
+    padding: 0;
+  }
+  .u_feaute_img {
+    padding: 0 0 30px;
+  }
+  .btn_ultimate {
+    margin-top: 50px;
+  }
+  /* ultimate service end  */
+  /* price start  */
+  .price_h {
+    padding: 0;
+  }
+  .wrapper .option span {
+    font-size: 18px;
+    padding: 15px 30px;
+  }
+  /* price end  */
+  /* review start  */
+  .review_item {
+    text-align: center;
+  }
+  .review_img {
+    padding-bottom: 30px;
+  }
+  .review_item h2 {
+    font-size: 22px;
+  }
+  .review_item p {
+    padding: 30px 0;
+  }
+
+  /* review end  */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .padding_top {
+    padding-top: 60px;
+  }
+  /* header start  */
+  header {
+    padding-top: 17px;
+  }
+  .menu ul {
+    padding: 10px 0;
+  }
+  .menu ul li a {
+    margin-right: 0;
+    padding: 0 0 10px 0px !important;
+  }
+  .btn_nav {
+    /* margin-bottom: 10px; */
+  }
+  /* header end  */
+  /* slider start  */
+  .slider_text h1 {
+    padding-top: 20px;
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .p_2 {
+    padding: 20px 0 40px;
+    line-height: 27px;
+  }
+  /* slider end  */
+  /* companies start  */
+  .companies {
+    padding-top: 60px;
+  }
+  .comp ul li {
+    margin-top: 40px;
+    width: 60px;
+    margin-right: 33px !important;
+  }
+  .comp ul li img {
+  }
+  /* companies end  */
+  /* feature start  */
+  .feature {
+    margin-top: 60px;
+  }
+  .feature_heading {
+    text-align: center;
+  }
+  .feature_heading h2 {
+    padding-right: 0;
+    font-size: 30px;
+  }
+  .feature_heading p {
+    padding: 20px 40px 0;
+  }
+  .item {
+    padding: 0 100px;
+    margin-top: 50px;
+    text-align: center;
+  }
+  .item_img {
+    margin: 0 auto;
+  }
+  .item h3 {
+    padding: 15px 0;
+  }
+  /* feature end  */
+  /* jackpot start  */
+  .jackpot {
+    text-align: center;
+  }
+  .jackpot_heading h2 {
+    padding-right: 0;
+    font-size: 25px;
+  }
+  .devider {
+    margin: 15px 0 20px 0;
+    height: 1px;
+    width: 300px;
+    background-color: var(--grey);
+  }
+  /* jackpot end  */
+  /* quick_secvice start  */
+  .quick_service {
+    padding-top: 10px;
+    text-align: center;
+  }
+  .s_img {
+    margin: 50px auto 0;
+  }
+  .s_text {
+    padding: 0 100px;
+  }
+  .s_text h3 {
+    padding: 15px 0;
+  }
+  /* quick_secvice end  */
+  /* design start  */
+  .padding_bottom {
+    padding-bottom: 20px;
+  }
+  .design_img {
+    padding-bottom: 30px;
+  }
+  .design_text {
+    margin-left: 0;
+    padding-right: 0px;
+    text-align: center;
+  }
+  .design_text h2 {
+    font-size: 30px;
+  }
+  .design_text p {
+    padding: 20px 0;
+  }
+  /* design end  */
+  /* service start   */
+
+  .c_heading h2 {
+    padding: 0;
+    font-size: 30px;
+  }
+  .c_heading p {
+    padding: 20px 5px;
+    line-height: 27px;
+  }
+  .service_item {
+    margin-top: 10px;
+  }
+  .service_text {
+    padding: 0 100px;
+  }
+  /* service end   */
+  /* ultimate service start  */
+  .u_heading {
+    text-align: center;
+    padding: 0;
+  }
+  .u_heading h2 {
+    font-size: 25px;
+  }
+  .u_heading p {
+    padding-top: 20px;
+  }
+  .u_item {
+    text-align: center;
+    padding: 0 100px 0;
+  }
+  .u_feaute_img {
+    padding: 0 10px 30px;
+  }
+  .btn_ultimate {
+    margin-top: 50px;
+  }
+
+  /* ultimate service end  */
+  /* price start  */
+  .price_item {
+    margin: 40px 100px 0;
+  }
+  /* price end  */
+  /* review start  */
+  .review_item {
+    text-align: center;
+  }
+  .review_img {
+    padding-bottom: 30px;
+  }
+  .review_item h2 {
+    font-size: 25px;
+  }
+  .review_item p {
+    padding: 30px 0;
+  }
+
+  /* review end  */
+}
+
+/* Medium devices (tablets, 768px and up) */
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .padding_top {
+    padding-top: 80px;
+  }
+  /* header start  */
+  header {
+  }
+  .menu ul {
+    padding: 10px 0;
+  }
+  .menu ul li a {
+    padding: 0 0 10px 0px !important;
+  }
+  .btn_nav {
+    margin-bottom: 10px;
+  }
+  /* header end  */
+
+  /* slider start  */
+  .slider_text h1 {
+    padding-top: 25px;
+    font-size: 40px;
+    line-height: 30px;
+  }
+  /* slider end  */
+  /* companies start  */
+  .companies {
+    padding-top: 80px;
+  }
+  .comp ul li {
+    margin-top: 40px;
+    width: 89px;
+    margin-right: 40px !important;
+  }
+  .comp ul li img {
+  }
+  /* companies end  */
+  /* feature start  */
+  .feature {
+    margin-top: 80px;
+  }
+  .feature_heading {
+    text-align: center;
+  }
+  .feature_heading h2 {
+    padding-right: 0;
+  }
+  .feature_heading p {
+    padding: 30px 75px 0;
+  }
+  .item {
+    margin-top: 30px;
+    text-align: center;
+  }
+  .item_img {
+    margin: 0 auto;
+  }
+  .item h3 {
+    padding: 15px 0;
+  }
+  /* feature end  */
+  /* jackpot start  */
+  .jackpot_heading h2 {
+    padding-right: 0;
+    font-size: 30px;
+  }
+  .devider {
+    height: 100px;
+  }
+  /* jackpot end  */
+  /* quick_secvice start  */
+  .quick_service {
+    text-align: center;
+  }
+  .s_img {
+    margin: 0 auto;
+  }
+  .s_text {
+    padding-right: 0;
+  }
+  .s_text h3 {
+    padding: 15px 0;
+  }
+  /* quick_secvice end  */
+  /* design start  */
+  .padding_bottom {
+    padding-bottom: 20px;
+  }
+  .design_img {
+    margin: 0 100px;
+    padding-bottom: 30px;
+  }
+  .design_text p {
+    padding: 20px 0;
+  }
+  /* design end  */
+  /* service start   */
+
+  .c_heading h2 {
+    padding: 0;
+    font-size: 30px;
+  }
+  .c_heading p {
+    padding: 20px 50px;
+    line-height: 27px;
+  }
+  .service_item {
+    margin-top: 50px;
+  }
+  .service_text {
+    padding: 0 30px;
+  }
+  /* service end   */
+  /* ultimate service start  */
+  .u_heading {
+    text-align: center;
+    padding: 0 100px;
+  }
+  .u_heading h2 {
+    font-size: 30px;
+  }
+  .u_heading p {
+    padding-top: 20px;
+  }
+  .u_item {
+    text-align: center;
+    padding: 0 25px 0;
+  }
+  .u_feaute_img {
+    padding: 0 100px 30px;
+  }
+  .btn_ultimate {
+    margin-top: 50px;
+  }
+  /* ultimate service end  */
+  /* price start  */
+  .price_h {
+    padding: 0;
+  }
+  /* price end  */
+
+  /* review start  */
+  .review_img {
+    padding-bottom: 30px;
+  }
+  .review_item h2 {
+    font-size: 30px;
+  }
+  .review_item p {
+    padding: 30px 0;
+  }
+
+  /* review end  */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .padding_top {
+    padding-top: 100px;
+  }
+  /* companies start  */
+  .companies {
+    padding-top: 100px;
+  }
+  .comp ul li {
+    margin-top: 40px;
+    width: 100px;
+    margin-right: 40px !important;
+  }
+  .comp ul li img {
+  }
+  /* companies end  */
+  /* feature start  */
+  .feature {
+    margin-top: 100px;
+  }
+  .feature_heading p {
+    padding: 30px 0 0 0;
+  }
+  .item {
+    margin-top: 30px;
+  }
+
+  /* feature end  */
+  /* jackpot start  */
+  .jackpot_heading h2 {
+    padding-right: 0;
+  }
+  /* jackpot end  */
+  /* quick_secvice start  */
+  .s_text {
+    padding-right: 0;
+  }
+  /* quick_secvice end  */
+  /* design start  */
+  .padding_bottom {
+    padding-bottom: 40px;
+  }
+  .design_text {
+    padding-right: 0;
+  }
+
+  /* design end  */
+  /* service start  */
+  .c_heading h2 {
+    padding: 0;
+  }
+  /* service end  */
+  /* service start  */
+  .c_heading h2 {
+    padding: 0;
+  }
+  .service_text {
+    padding: 0 45px;
+  }
+  /* service end  */
+  /* review start  */
+  .review_item p {
+    padding: 30px 0;
+  }
+
+  /* review end  */
+}
+
+/* Extra large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  /* feature start  */
+  .feature_heading p {
+    padding: 30px 0 0 0;
+  }
+  /* feature end  */
+  /* jackpot start  */
+  .jackpot_heading h2 {
+    padding-right: 0;
+  }
+  /* jackpot end  */
+  /* quick_secvice start  */
+  .s_text {
+    padding-right: 100px;
+  }
+  /* quick_secvice end  */
+  /* design start  */
+  .padding_bottom {
+    padding-bottom: 40px;
+  }
+  .design_text {
+    padding-right: 100px;
+  }
+  /* design end  */
+  /* service start  */
+  .c_heading h2 {
+    padding: 0;
+  }
+  .service_text {
+    padding: 0 45px;
+  }
+  /* service end  */
+}
+
+/* Extra Extra  large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+  /* service start  */
+  .service_text {
+    padding: 0 60px;
+  }
+  /* service end  */
+}
