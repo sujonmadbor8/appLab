@@ -188,8 +188,45 @@
   .review_item p {
     padding: 30px 0;
   }
-
+  .arrow {
+    margin-top: 20px;
+    text-align: center;
+  }
   /* review end  */
+  /* .app_link  start  */
+  .app_link {
+    background: none;
+    text-align: center;
+  }
+  .app_link_text h1 {
+    font-size: 23px;
+  }
+  .app_link_text p {
+    padding: 20px 0;
+  }
+  .app_link_text a img {
+    width: 125px;
+    height: 45px;
+  }
+  .g_img {
+    margin-right: 15px;
+  }
+  /* .app_link  end  */
+  /* footer start  */
+  .f_text h1 {
+    padding-bottom: 30px;
+  }
+  .f_text ul li {
+    margin-right: 15px !important;
+    margin-bottom: 15px !important;
+  }
+  .social_links {
+    padding: 20px 0;
+  }
+
+  .copy_text {
+    padding-bottom: 60px;
+  } /* footer end  */
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -370,6 +407,28 @@
   }
 
   /* review end  */
+  /* .app_link  start  */
+  .app_link {
+    background: none;
+    text-align: center;
+  }
+  .app_link_text h1 {
+    font-size: 25px;
+  }
+  .app_link_text p {
+    padding: 30px 0;
+  }
+  /* .app_link  end  */
+  /* footer start  */
+  .f_text h1 {
+    padding-bottom: 30px;
+  }
+  .social_links {
+    padding: 30px 0 50px;
+  }
+  .copy_text {
+    padding-bottom: 60px;
+  } /* footer end  */
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -527,6 +586,27 @@
   }
 
   /* review end  */
+  /* .app_link  start  */
+  .app_link {
+    background: none;
+  }
+  .app_link_text h1 {
+    font-size: 35px;
+  }
+  .app_link_text p {
+    padding: 30px 0;
+  }
+  /* .app_link  end  */
+  /* footer start  */
+  .f_text h1 {
+    padding-bottom: 30px;
+  }
+  .social_links {
+    padding: 30px 0 50px;
+  }
+  .copy_text {
+    padding-bottom: 80px;
+  } /* footer end  */
 }
 
 /* Large devices (desktops, 992px and up) */
@@ -596,6 +676,11 @@
   }
 
   /* review end  */
+  /* .app_link  start  */
+  .app_link {
+    background: none;
+  }
+  /* .app_link  end  */
 }
 
 /* Extra large devices (desktops, 1200px and up) */
