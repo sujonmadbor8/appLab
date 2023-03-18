@@ -462,7 +462,7 @@ input[type="radio"] {
   color: var(--dark_blue);
 }
 .faq_item h2 button::after {
-  content: "\2212";
+  /* content: "\2212"; */
   width: 35px;
   font-size: 25px;
   text-align: center;
@@ -470,9 +470,17 @@ input[type="radio"] {
   right: 15px;
   top: 11px;
   position: absolute;
+  background-image: none;
 }
 .faq_item h2 button.collapsed::after {
   content: "\002B";
+  background-image: none;
+}
+.faq_item h2 button:not(.collapsed)::after {
+  background-image: none;
+}
+.accordion_custom {
+  --bs-accordion-btn-icon-transform: rotate(0deg);
 }
 /* faq end  */
 
