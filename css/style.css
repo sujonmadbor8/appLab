@@ -99,12 +99,10 @@ header {
 
 /* slider start  */
 .slider {
-  background-image: url("../images/slider_bg.png"),
-    url("../images/slider_bg_1.png");
+  background-image: url(../images/slider_bg111.png);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: bottom bottom;
-  background-color: #fdfdfe;
+  background-position: left bottom;
   padding: 50px 0;
 }
 .p_1 {
@@ -123,10 +121,6 @@ header {
   line-height: 30px;
 }
 .slider_text {
-  background-image: url("../images/slider_text_bg.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: top left;
 }
 .slider_text h1 {
   padding-top: 25px;
@@ -272,6 +266,9 @@ header {
 .design_text p {
   padding: 30px 0 40px;
   line-height: 27px;
+}
+.hr_c {
+  /* margin: 0 !important; */
 }
 /* design end  */
 
@@ -464,7 +461,19 @@ input[type="radio"] {
   background-color: var(--bg_grey);
   color: var(--dark_blue);
 }
-
+.faq_item h2 button::after {
+  content: "\2212";
+  width: 35px;
+  font-size: 25px;
+  text-align: center;
+  border-radius: 5px;
+  right: 15px;
+  top: 11px;
+  position: absolute;
+}
+.faq_item h2 button.collapsed::after {
+  content: "\002B";
+}
 /* faq end  */
 
 /* app link start  */

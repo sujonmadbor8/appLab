@@ -20,6 +20,7 @@
   /* slider start  */
   .slider {
     padding: 30px 0;
+    text-align: center;
   }
   .slider_text h1 {
     padding-top: 20px;
@@ -36,6 +37,9 @@
   .link_2 {
     padding-top: 45px;
     display: block;
+  }
+  .watch_link {
+    margin-left: 0;
   }
   /* slider end  */
   /* companies start  */
@@ -68,14 +72,17 @@
     padding: 20px 0 0;
   }
   .item {
-    margin-top: 50px;
+    margin-top: 40px;
     text-align: center;
   }
   .item_img {
     margin: 0 auto;
+    width: 70px;
   }
+
   .item h3 {
     padding: 15px 0;
+    font-size: 18px;
   }
   /* feature end  */
   /* jackpot start  */
@@ -92,23 +99,27 @@
     width: 300px;
     background-color: var(--grey);
   }
+
   /* jackpot end  */
   /* quick_secvice start  */
   .quick_service {
-    padding-top: 10px;
+    padding-top: 0;
     text-align: center;
   }
   .s_img {
-    margin: 50px auto 0;
+    margin: 40px auto 0;
+    width: 70px;
   }
   .s_text {
     padding: 0;
   }
   .s_text h3 {
     padding: 15px 0;
+    font-size: 18px;
   }
   /* quick_secvice end  */
   /* design start  */
+
   .padding_bottom {
     padding-bottom: 20px;
   }
@@ -128,7 +139,9 @@
   }
   /* design end  */
   /* service start   */
-
+  .service {
+    padding-top: 44px;
+  }
   .c_heading h2 {
     padding: 0;
     font-size: 25px;
@@ -163,7 +176,10 @@
     padding: 0 0 30px;
   }
   .btn_ultimate {
-    margin-top: 50px;
+    margin-top: 40px;
+  }
+  .u_text h3 {
+    padding: 15px 0;
   }
   /* ultimate service end  */
   /* price start  */
@@ -288,7 +304,7 @@
   }
   .item {
     padding: 0 100px;
-    margin-top: 50px;
+    margin-top: 40px;
     text-align: center;
   }
   .item_img {
@@ -315,11 +331,11 @@
   /* jackpot end  */
   /* quick_secvice start  */
   .quick_service {
-    padding-top: 10px;
+    padding-top: 0;
     text-align: center;
   }
   .s_img {
-    margin: 50px auto 0;
+    margin: 40px auto 0;
   }
   .s_text {
     padding: 0 100px;
@@ -354,7 +370,7 @@
     font-size: 30px;
   }
   .c_heading p {
-    padding: 20px 5px;
+    padding: 20px 5px 0;
     line-height: 27px;
   }
   .service_item {
@@ -688,6 +704,9 @@
   /* feature start  */
   .feature_heading p {
     padding: 30px 0 0 0;
+  }
+  .item_text {
+    margin-left: 20px;
   }
   /* feature end  */
   /* jackpot start  */
