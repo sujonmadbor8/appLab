@@ -280,6 +280,12 @@
     padding: 20px 0 40px;
     line-height: 27px;
   }
+  .link_1 {
+    margin-bottom: 10px;
+  }
+  .slider_l {
+    margin-bottom: 15px;
+  }
   /* slider end  */
   /* companies start  */
   .companies {
@@ -477,6 +483,9 @@
     padding-top: 25px;
     font-size: 40px;
     line-height: 30px;
+  }
+  .slider_l {
+    margin-bottom: 15px;
   }
   /* slider end  */
   /* companies start  */
